@@ -2,7 +2,6 @@
   
 - 🔭 Estudante de Engenharia de software
 - -🏫 Universidade de Brasilia 
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/OscarDeBrito">
