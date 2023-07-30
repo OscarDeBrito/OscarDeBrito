@@ -49,9 +49,12 @@
 <div width="100%" align="center">
   <a align="right" href="https://github.com/OscarDeBrito/Steam-Downgrade" title="Steam-Downgrade"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarDeBrito&repo=Steam-Downgrade&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" </a>
 </div>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/OscarDeBrito/2023-1-CAPJu-Front" title="2023-1-CAPJu-Front"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarDeBrito&repo=2023-1-CAPJu-Front&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" </a>
+<div width="50%" align="center">
+  <a align="right" href="https://github.com/OscarDeBrito/2023-1-CAPJu-Front" title="2023-1-CAPJu-Front">
+    <img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarDeBrito&repo=2023-1-CAPJu-Front&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
+
 
 
 <!--
