@@ -26,7 +26,7 @@
 <p align="center">
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Python" height="25" src="images/python-logo-only.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
 </p>
 <hr>
